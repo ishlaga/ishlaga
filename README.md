@@ -51,23 +51,21 @@
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/> Angular  |
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/> React
 </div>
-    <h2 align="left">Databases</h2>
- 
-    <div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> MySQL  |
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/> MongoDB  |
+  <h2 align="left">Databases</h2>
+
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> MySQL |
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/> MongoDB |
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4J"/>
 </div>
 
-   <h2 align="left">Operating Systems:</h2>
-  - **** 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"/> Windows |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/> Linux |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="60" height="60"/> macOS
+<h2 align="left">Operating Systems:</h2>
 
-</p>
-
----
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"/> Windows |
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/> Linux |
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macOS" width="60" height="60"/> macOS
+</div>
 
 <h2 align="left">Connect with Me</h2>
 
@@ -75,10 +73,8 @@
   If you have exciting projects or ideas for collaboration, I'd love to hear from you!
  
   - 📧 **Email:** chinthareddyeshanth@gmail.com
-  - 💼 **LinkedIn:** [Linkdein](https://www.linkedin.com/in/eshanth9/)
+  - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/eshanth9/)
 </p>
-
----
 
 <h2 align="left">Fun Fact</h2>
 
