@@ -38,9 +38,9 @@
     
     <h2 align="left">libraries</h2>
   - **** 
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/> |
 
-    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
     
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
      <h2 align="left">Frameworks:</h2>
@@ -53,7 +53,8 @@
   - **** 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> MySQL  |
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/> MongoDB  |
-    <img src="https://camo.githubusercontent.com/db560f13ad695c842c5492027546fae1c1b7f5a5add96aad584a318410dc1803/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e656f346a2d3030384343313f7374796c653d666f722d7468652d6261646765266c6f676f3d6e656f346a266c6f676f436f6c6f723d7768697465" alt="Neo4j" width="100" height="60"/> Neo4j
+    
+    ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 
     <h2 align="left">Operating Systems:</h2>
   - **** 
