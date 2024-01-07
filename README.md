@@ -43,13 +43,15 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 </div>
+   <h2 align="left">Frameworks:</h2>
 
-     <h2 align="left">Frameworks:</h2>
-  - ** ** 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/> Flutter  |
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="60" height="60"/> React Native  |
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/> Angular  |
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/> React
+<div style="display: flex; align-items: center;">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="60" height="60"/> Flutter  |
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="60" height="60"/> React Native  |
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60" height="60"/> Angular  |
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/> React
+</div>
+
     <h2 align="left">Databases</h2>
   - **** 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/> MySQL  |
