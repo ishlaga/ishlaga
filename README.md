@@ -58,7 +58,7 @@
     
     ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
 
-    <h2 align="left">Operating Systems:</h2>
+   <h2 align="left">Operating Systems:</h2>
   - **** 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="60" height="60"/> Windows |
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/> Linux |
