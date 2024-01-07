@@ -38,7 +38,7 @@
     
     <h2 align="left">libraries</h2>
   - **** 
-    <img src="https://camo.githubusercontent.com/fec001b73f0253a3b7036f8cd5135d35797f0db64e9399903fc62e588e15ef43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656e736f72466c6f772d2532334646364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54656e736f72466c6f77266c6f676f436f6c6f723d7768697465" width="100" height="60"/> TensorFlow |
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white/> TensorFlow |
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/> Scikit-learn |
     <img src="https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465" width="100" height="60"/> Numpy |
     <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="60" height="60"/> pandas
